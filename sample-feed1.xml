@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<!DOCTYPE order [<!ENTITY xxe SYSTEM "file:///etc/passwd">]>
+<!DOCTYPE title [<!ENTITY xxe SYSTEM "file:///etc/passwd">]>
 <rss version="2.0">
   <channel>
     <title>Sample Feed - Favorite RSS Related Software &amp; Resources</title>
